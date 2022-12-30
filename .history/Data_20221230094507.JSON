@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Basic Tee",
+    "cate": "men",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+    "imageAlt": "Front of mens' Basic Tee in black.",
+    "price": "35",
+    "color": "Black",
+    "store": "Infinity"
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "men",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg",
+    "imageAlt": "Front of mens' Basic Tee in off white.",
+    "price": "25",
+    "color": "White",
+    "store": "Supreme"
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "men",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg",
+    "imageAlt": "Front of mens' Basic Tee in Slate.",
+    "price": "30",
+    "color": "Slate",
+    "store": "Hollister"
+  },
+  {
+    "name": "Basic Top",
+    "cate": "women",
+    "imageSrc": "https://i.ibb.co/VJMWQJd/trendy-top-design-mockup-presented-wooden-hanger-1.jpg",
+    "imageAlt": "Front of womens' Basic top.",
+    "price": "45",
+    "color": "Mixed",
+    "store": "Infinity"
+  },
+  {
+    "name": "Trendy Shirt",
+    "cate": "women'",
+    "imageSrc": "https://i.ibb.co/NVRTN1K/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger.jpg",
+    "imageAlt": "Front of womens' Trendy Shirt in off white.",
+    "price": "75",
+    "color": "White",
+    "store": "Supreme"
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "women",
+    "imageSrc": "https://i.ibb.co/HpKZVcr/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-4.jpg",
+    "imageAlt": "Front of mens' Basic Tee in Slate.",
+    "price": "30",
+    "color": "White",
+    "store": "Hollister"
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "women",
+    "imageSrc": "https://i.ibb.co/HpKZVcr/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-4.jpg",
+    "imageAlt": "Front of mens' Basic Tee in Slate.",
+    "price": "30",
+    "color": "White",
+    "store": "Hollister"
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "women",
+    "imageSrc": "https://i.ibb.co/HpKZVcr/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-4.jpg",
+    "imageAlt": "Front of womens' Basic Tee in Slate.",
+    "price": "30",
+    "color": "White",
+    "store": "Hollister"
+  },
+  {
+    "name": "Dropped Tee",
+    "cate": "women",
+    "imageSrc": "https://i.ibb.co/McnvS8C/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-2.jpg",
+    "imageAlt": "Front of womens' Dropped Tee in white.",
+    "price": "50",
+    "color": "White",
+    "store": "Amier"
+  },
+]

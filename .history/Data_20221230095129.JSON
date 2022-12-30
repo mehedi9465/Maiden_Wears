@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Infinity",
+        "address": "21 Rankin Street, NY, US",
+        "Since": "1935",
+        "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143301/126.png"
+    },
+    {
+        "name": "Hollister",
+        "address": "20 Rankin Street, NY, US",
+        "Since": "1935",
+        "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143301/126.png"
+    },
+    {
+        "name": "Infinity",
+        "address": "21 Rankin Street, NY, US",
+        "Since": "1935",
+        "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143301/126.png"
+    },
+    {
+        "name": "Infinity",
+        "address": "21 Rankin Street, NY, US",
+        "Since": "1935",
+        "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143301/126.png"
+    },
+]
+
+
+{
+      id: 1,
+      href: "#",
+      imageSrc:
+        "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143301/126.png",
+      imageAlt: "Front of men's Basic Tee in black.",
+    },
+    {
+      id: 1,
+      href: "#",
+      imageSrc:
+        "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143419/95.png",
+      imageAlt: "Front of men's Basic Tee in black.",
+    },
+    {
+      id: 1,
+      href: "#",
+      imageSrc:
+        "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143448/196.png",
+      imageAlt: "Front of men's Basic Tee in black.",
+    },
+    {
+      id: 1,
+      href: "#",
+      imageSrc:
+        "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143434/144.png",
+      imageAlt: "Front of men's Basic Tee in black.",
+    },

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Basic Tee",
+    "cate": "men",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+    "imageAlt": "Front of men's Basic Tee in black.",
+    "price": "$35",
+    "color": "Black"
+    store
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "men",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg",
+    "imageAlt": "Front of men's Basic Tee in off white.",
+    "price": "$25",
+    "color": "White"
+  },
+  {
+    "name": "Basic Tee",
+    "cate": "men",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg",
+    "imageAlt": "Front of men's Basic Tee in Slate.",
+    "price": "$30",
+    "color": "Slate"
+  }
+]

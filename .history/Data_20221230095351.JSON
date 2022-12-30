@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Infinity",
+    "address": "21 Rankin Street, NY, US",
+    "Since": "1935",
+    "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143301/126.png"
+  },
+  {
+    "name": "Hollister",
+    "address": "20 Northwest street, SA, CA",
+    "Since": "1975",
+    "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143419/95.png"
+  },
+  {
+    "name": "American Apparel",
+    "address": "3 Rock Street, NY, US",
+    "Since": "1905",
+    "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143448/196.png"
+  },
+  {
+    "name": "Supreme",
+    "address": "31 Rankin Street, NY, US",
+    "Since": "1931",
+    "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143434/144.png"
+  }
+]
